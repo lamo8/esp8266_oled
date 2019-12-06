@@ -109,8 +109,8 @@ void loop() {
 
 void WiFiconnect(){
   
-  wifiMulti.addAP("NEP", "Nep-2013");   // add Wi-Fi networks you want to connect to
-  wifiMulti.addAP("lenovo", "1111100000");
+  wifiMulti.addAP("***", "**********");   // add Wi-Fi networks you want to connect to
+  wifiMulti.addAP("***", "**********");
   //wifiMulti.addAP("ssid_from_AP_3", "your_password_for_AP_3");
 
   // Подключаемся к wifi
